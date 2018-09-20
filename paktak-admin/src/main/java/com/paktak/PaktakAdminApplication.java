@@ -9,6 +9,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class PaktakAdminApplication {
 	public static void main(String[] args) {
         System.out.print("spring-boot admin start......");
-		SpringApplication.run(PaktakAdminApplication.class, args);
+        SpringApplication.run(PaktakAdminApplication.class, args);
 	}
 }
